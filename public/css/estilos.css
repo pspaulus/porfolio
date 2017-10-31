@@ -1,0 +1,17 @@
+.--theme-background {
+    background-color: #092A35;
+    color: #fff;
+}
+
+.--theme-button {
+    background-color: #658525;
+    border-color: #658525;
+}
+
+.--theme-button:hover {
+    background-color: #CFEE91;
+    border-color: #CFEE91;
+    color: #444;
+    cursor: pointer
+}
+
